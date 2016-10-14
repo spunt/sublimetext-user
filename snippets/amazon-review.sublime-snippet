@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+${6:title}
+This review is for [[ASIN:${1:asin} ${2:product}]]. My impressions so far:
+
+✅ PROS
+- $3
+
+❌ CONS
+- $4
+
+BOTTOM LINE. $5
+
+---
+
+DISCLAIMER. I initially found this product on a third-party website (e.g., snagshout, amzreviewtrader, reviewkick) that connects Amazon sellers willing to sell their products at a discounted price to customers like myself who are willing and able to write an honest and informative review after having tried it out. Since I'm an academic on a limited income, these discounts allow me to try out products without having to worry as I ordinarily do about breaking the bank. At the same time, and especially because I'm on a limited income, I know that price is a major factor in the decision to purchase a product. So, If you're specifically interested in knowing more about the relative value of this product based on price, you might check out camelcamelcamel, Keepa, and thetracktor (price tracking/comparison websites that also have extensions for most web browsers).
+  ]]></content>
+    <tabTrigger>amz</tabTrigger>
+    <scope>text.html.markdown</scope>
+    <description>Amazon Review Template</description>
+</snippet>

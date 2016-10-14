@@ -1,0 +1,4 @@
+{
+  "selector": "source.matlab",
+  "cmd": ["/Applications/MATLAB_R2015b.app/bin/matlab", "-desktop", "-nosplash", "-r", "cd('$file_path')"],
+}

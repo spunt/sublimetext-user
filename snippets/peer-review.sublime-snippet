@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+The Authors report a $1 study of $2 to investigate $3. This is a well-written study whose results have the potential to make a significant contribution to the field. However, I have some some concerns with the present version of the manuscript that I believe the Authors need to address before their study's impact can be properly evaluated:
+  ]]></content>
+    <tabTrigger>rintro</tabTrigger>
+    <scope>text.html.markdown</scope>
+    <description>Review Template</description>
+</snippet>

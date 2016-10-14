@@ -1,0 +1,8 @@
+[
+    {
+        "class": "sidebar_label",
+        "color": [250, 250, 250],
+        "font.bold": false,
+        "font.size": 13
+    },
+]

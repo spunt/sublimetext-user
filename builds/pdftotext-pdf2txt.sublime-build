@@ -1,0 +1,4 @@
+{
+    "cmd": ["pdftotext", "$file", "$file_base_name.txt"],
+    "selector": "text.html.markdown",
+}

@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+# INTRODUCTION
+$1
+
+# METHOD
+
+
+# RESULTS
+
+
+# DISCUSSION
+
+
+  ]]></content>
+    <tabTrigger>routline</tabTrigger>
+    <scope>text.html.markdown</scope>
+    <description>Review Template</description>
+</snippet>

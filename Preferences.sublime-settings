@@ -1,0 +1,44 @@
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"bold_folder_labels": false,
+	"color_scheme": "Packages/Material Theme/schemes/OLD/Material-Theme-Darker.tmTheme",
+	"contrasted_quick_panel": true,
+	"contrasted_sidebar": true,
+	"contrasted_tabs": true,
+	"default_dir": "~/Desktop",
+	"default_encoding": "UTF-8",
+    "detect_indentation": true,
+	"flatland_sidebar_tree_xlarge": true,
+	"flatland_square_tabs": true,
+	"font_face": "Droid Sans Mono",
+	"font_size": 15,
+    "folder_exclude_patterns":
+        [
+            ".git",
+            ".bundle",
+            ".sass-cache"
+        ],
+    "font_options":
+        [
+            "subpixel_antialias"
+        ],
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"scroll_speed": 1.5,
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "auto",
+	"wrap_width": 0
+}

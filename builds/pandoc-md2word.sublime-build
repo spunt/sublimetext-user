@@ -1,0 +1,6 @@
+{
+    "cmd": ["/usr/local/bin/pandoc", "-S", "-s", "--normalize", "--reference-docx=/Users/bobspunt/.config/sublime-text/pandoc-wordref.docx", "-f", "markdown", "$file", "-t", "docx", "-o", "$file_base_name.docx"],
+    "selector": "text.html.markdown",
+}
+
+

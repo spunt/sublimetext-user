@@ -1,0 +1,5 @@
+{
+    "cmd": ["/usr/local/bin/pandoc", "-S", "-s", "-f", "markdown", "-t", "html", "-o", "$file_base_name.md", "$file"],
+    "selector": "text.html.markdown",
+}
+

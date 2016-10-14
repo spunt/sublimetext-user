@@ -1,0 +1,3 @@
+{
+    "cmd": ["textutil", "-convert", "txt", "$file_base_name.md", "$file"],
+}
