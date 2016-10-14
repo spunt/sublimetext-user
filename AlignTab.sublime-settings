@@ -1,0 +1,12 @@
+{
+	"named_patterns":
+	{
+		"all_and": "&",
+		"all_bar": "\\|",
+		"all_space": "\\s*/l1l0",
+		"first_colon": ":/f",
+		"first_comma": ",/f",
+		"first_equal": "=/f",
+		"first_url": "\\s'http/l1l0f1"
+	}
+}

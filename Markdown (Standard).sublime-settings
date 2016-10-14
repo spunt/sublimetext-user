@@ -1,0 +1,15 @@
+{
+	"always_prompt_for_file_reload": false,
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_centered": true,
+	"enable_table_editor": true,
+	"extensions":
+	[
+	],
+	"rulers":
+	[
+	],
+	"spell_check": true,
+	"word_wrap": true,
+	"wrap_width": 90
+}

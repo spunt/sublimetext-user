@@ -3,37 +3,77 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": false,
-	"color_scheme": "Packages/Material Theme/schemes/OLD/Material-Theme-Darker.tmTheme",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Materialize/schemes/Material Glacier.tmTheme",
 	"contrasted_quick_panel": true,
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
 	"default_dir": "~/Desktop",
 	"default_encoding": "UTF-8",
-    "detect_indentation": true,
+	"detect_indentation": true,
 	"flatland_sidebar_tree_xlarge": true,
 	"flatland_square_tabs": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".bundle",
+		".sass-cache"
+	],
 	"font_face": "Droid Sans Mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
 	"font_size": 15,
-    "folder_exclude_patterns":
-        [
-            ".git",
-            ".bundle",
-            ".sass-cache"
-        ],
-    "font_options":
-        [
-            "subpixel_antialias"
-        ],
-	"highlight_line": true,
+	"gutter": true,
+	"highlight_line": false,
 	"highlight_modified_tabs": true,
+	"icon_file_type_enable": true,
 	"ignored_packages":
 	[
 		"Markdown",
+		"SideBarGit",
 		"Vintage"
 	],
+	"inconsolata_ui": false,
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"large_scroll_bars": true,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
+	"margin": 10,
+	"material_theme_accent_yellow": true,
+	"material_theme_bold_tab": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_disable_fileicons": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_disable_tree_indicator": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"material_theme_tree_headings": true,
+	"monaco_ui": false,
 	"overlay_scroll_bars": "enabled",
+	"predawn_findreplace_small": false,
+	"predawn_quick_panel_small": false,
+	"predawn_sidebar_arrows": true,
+	"predawn_sidebar_large": false,
+	"predawn_sidebar_medium": false,
+	"predawn_sidebar_narrow": false,
+	"predawn_sidebar_small": false,
+	"predawn_sidebar_xlarge": true,
+	"predawn_sidebar_xsmall": false,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_large": false,
+	"predawn_tabs_medium": true,
+	"predawn_tabs_small": false,
+	"preferences_editor_use_syntax_name": true,
 	"scroll_speed": 1.5,
 	"tab_size": 4,
 	"theme": "Flatland Dark.sublime-theme",

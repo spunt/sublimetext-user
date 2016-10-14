@@ -1,0 +1,21 @@
+{
+	// "color_scheme": "Packages/Materialize/schemes/Material Spacegray Eighties.tmTheme",
+	"draw_centered": false,
+	"draw_indent_guides": false,
+	"enable_table_editor": true,
+	"extensions":
+	[
+		"mdown",
+		"markdown",
+		"md"
+	],
+	"gutter": true,
+	"line_numbers": false,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 20,
+	"font_face": "Droid Sans Mono",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 0
+}

@@ -1,8 +1,10 @@
 {
-	"auto_upgrade_last_run": null,	
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AlignTab",
 		"AppleScript Extensions",
 		"ApplySyntax",
 		"Case Conversion",
@@ -14,6 +16,7 @@
 		"HTML Snippets",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
+		"JsFormat",
 		"Markdown Extended",
 		"Markdown Preview",
 		"MarkdownEditing",
@@ -30,19 +33,15 @@
 		"Schemr",
 		"ShellScriptImproved",
 		"SideBarEnhancements",
-		"SideBarGit",
 		"SmartMarkdown",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Table Editor",
-		"Tag",
 		"Theme - Brogrammer",
 		"Theme - DC",
 		"Theme - Flatland",
 		"Theme - Soda",
 		"Theme - Spacegray",
-		"Themr",
-		"WordCount",
-        "JsFormat"
+		"Themr"
 	]
 }
