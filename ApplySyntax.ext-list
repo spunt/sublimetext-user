@@ -16,6 +16,11 @@
 		"php5",
 		"phtml"
 	],
+	"Python":
+	[
+		"py3",
+		"pyw"
+	],
 	"Shell-Unix-Generic":
 	[
 		"bash",
@@ -29,6 +34,7 @@
 	"YAML":
 	[
 		".gemrc",
+		"YAML-tmLanguage",
 		"yml",
 		"yml.dist"
 	]

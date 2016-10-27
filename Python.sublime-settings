@@ -3,6 +3,8 @@
 	"draw_white_space": "all",
 	"extensions":
 	[
+		"py3",
+		"pyw"
 	],
 	"rulers":
 	[

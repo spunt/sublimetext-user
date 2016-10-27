@@ -2,15 +2,17 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
-	"bold_folder_labels": false,
+	"bold_folder_labels": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Materialize/schemes/Material Glacier.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"contrasted_quick_panel": true,
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
 	"default_dir": "~/Desktop",
 	"default_encoding": "UTF-8",
 	"detect_indentation": true,
+	"draw_minimap_border": true,
+	"fade_fold_buttons": false,
 	"flatland_sidebar_tree_xlarge": true,
 	"flatland_square_tabs": true,
 	"folder_exclude_patterns":
@@ -28,7 +30,7 @@
 	"gutter": true,
 	"highlight_line": false,
 	"highlight_modified_tabs": true,
-	"icon_file_type_enable": true,
+	"icon_file_type_enable": false,
 	"ignored_packages":
 	[
 		"Markdown",
@@ -38,7 +40,6 @@
 	"inconsolata_ui": false,
 	"indent_guide_options":
 	[
-		"draw_normal",
 		"draw_active"
 	],
 	"large_scroll_bars": true,
@@ -59,6 +60,7 @@
 	"material_theme_tabs_separator": true,
 	"material_theme_tree_headings": true,
 	"monaco_ui": false,
+	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"predawn_findreplace_small": false,
 	"predawn_quick_panel_small": false,

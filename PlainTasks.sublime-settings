@@ -1,3 +1,33 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme"
+	"archive_name": "Archive:",
+	"before_tasks_bullet_margin": 1,
+	"cancelled_tasks_bullet": "x",
+	"color_scheme": "Packages/PlainTasks/tasks-eighties-dark.hidden-tmTheme",
+	"date_format": "(%y-%m-%d %H:%M)",
+	"done_tag": true,
+	"done_tasks_bullet": "+",
+	"draw_indent_guides": false,
+	"extensions":
+	[
+		"TODO",
+		"todo",
+		"todolist",
+		"taskpaper",
+		"tasks"
+	],
+	"fade_fold_buttons": false,
+	"fold_buttons": true,
+	"font_face": "FontAwesomeMono",
+	"gutter": true,
+	"line_numbers": false,
+	  "tab_size": 4,
+  "translate_tabs_to_spaces": false,
+  "use_tab_stops": true,
+	"margin": 2,
+	"match_brackets": false,
+	"new_on_top": true,
+	"open_tasks_bullet": "■",
+	"project_tag": true,
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true
 }

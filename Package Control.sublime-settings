@@ -1,18 +1,23 @@
 {
 	"auto_upgrade_last_run": null,
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"AlignTab",
 		"AppleScript Extensions",
 		"ApplySyntax",
+		"Auto Hide Sidebar",
 		"Case Conversion",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
 		"Gist",
 		"Git",
+		"GitGutter",
 		"HTML Snippets",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
@@ -36,6 +41,7 @@
 		"SmartMarkdown",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SyncedSideBar",
 		"Table Editor",
 		"Theme - Brogrammer",
 		"Theme - DC",

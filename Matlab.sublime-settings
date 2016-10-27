@@ -1,5 +1,10 @@
 {
-    "extensions"     : ["m"],
-    "color_scheme": "Packages/Materialize/schemes/Material Flatland.tmTheme", 
-    "alignment_chars": ["="]
+	"alignment_chars":
+	[
+		"="
+	],
+	"extensions":
+	[
+		"m"
+	]
 }
