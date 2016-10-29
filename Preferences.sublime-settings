@@ -1,10 +1,12 @@
 {
+	"always_show_minimap_viewport": true,
+	"auto_close_tags": false,
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
-	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
 	"contrasted_quick_panel": true,
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
@@ -26,7 +28,7 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 15,
+	"font_size": 18,
 	"gutter": true,
 	"highlight_line": false,
 	"highlight_modified_tabs": true,
@@ -37,7 +39,7 @@
 		"SideBarGit",
 		"Vintage"
 	],
-	"inconsolata_ui": false,
+	"inconsolata_ui": true,
 	"indent_guide_options":
 	[
 		"draw_active"
@@ -45,7 +47,7 @@
 	"large_scroll_bars": true,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"margin": 10,
+	"margin": 5,
 	"material_theme_accent_yellow": true,
 	"material_theme_bold_tab": true,
 	"material_theme_compact_sidebar": true,
@@ -77,9 +79,11 @@
 	"predawn_tabs_small": false,
 	"preferences_editor_use_syntax_name": true,
 	"scroll_speed": 1.5,
+	"show_tab_close_buttons": false,
 	"tab_size": 4,
 	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "auto",
 	"wrap_width": 0

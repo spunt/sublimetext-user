@@ -2,10 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>author</key>
+  <string>Saad Quadri</string>
   <key>colorSpaceName</key>
   <string>sRGB</string>
   <key>gutterSettings</key>
-  <dict>
+<dict>
     <key>background</key>
     <string>#343d46</string>
     <key>divider</key>
@@ -18,18 +20,20 @@
     <string>#a7adba</string>
   </dict>
   <key>name</key>
-  <string>Material Oceanic Next</string>
+  <string>Material Spacegray</string>
+  <key>semanticClass</key>
+  <string>material.spacegray.dark</string>
   <key>settings</key>
   <array>
     <dict>
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#1B2B34</string>
+        <string>#2b303b</string>
         <key>caret</key>
         <string>#c0c5ce</string>
         <key>foreground</key>
-        <string>#CDD3DE</string>
+        <string>#c0c5ce</string>
         <key>invisibles</key>
         <string>#65737e</string>
         <key>lineHighlight</key>
@@ -57,7 +61,40 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#CDD3DE</string>
+        <string>#c0c5ce</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Ruby Variable</string>
+      <key>scope</key>
+      <string>variable.other.readwrite.instance.ruby</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#bf616a</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Handlebars Constants</string>
+      <key>scope</key>
+      <string>meta.function.block.start.handlebars support.constant.handlebars, meta.function.block.end.handlebars support.constant.handlebars, text.html.handlebars meta.function.inline.other.handlebars variable.parameter.handlebars, text.html.handlebars meta.function.inline.other.handlebars support.constant.handlebars</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#8fa1b3</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Handlebars Properties</string>
+      <key>scope</key>
+      <string>entity.other.attribute-name.handlebars variable.parameter.handlebars</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#bf616a</string>
       </dict>
     </dict>
     <dict>
@@ -68,7 +105,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#C594C5</string>
+        <string>#b48ead</string>
       </dict>
     </dict>
     <dict>
@@ -79,7 +116,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#5FB3B3</string>
+        <string>#96b5b4</string>
       </dict>
     </dict>
     <dict>
@@ -90,7 +127,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#EB606B</string>
+        <string>#bf616a</string>
       </dict>
     </dict>
     <dict>
@@ -101,7 +138,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#6699CC</string>
+        <string>#8fa1b3</string>
       </dict>
     </dict>
     <dict>
@@ -112,7 +149,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#F2777A</string>
+        <string>#bf616a</string>
       </dict>
     </dict>
     <dict>
@@ -123,7 +160,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#F99157</string>
+        <string>#d08770</string>
       </dict>
     </dict>
     <dict>
@@ -136,7 +173,7 @@
         <key>fontStyle</key>
         <string>normal</string>
         <key>foreground</key>
-        <string>#99C794</string>
+        <string>#a3be8c</string>
       </dict>
     </dict>
     <dict>
@@ -147,7 +184,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FAC863</string>
+        <string>#ebcb8b</string>
       </dict>
     </dict>
     <dict>
@@ -158,7 +195,8 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#EC5F67</string>
+        <string>ebcb8b</string>
+        
       </dict>
     </dict>
     <dict>
@@ -171,7 +209,7 @@
         <key>fontStyle</key>
         <string>italic</string>
         <key>foreground</key>
-        <string>#EC5F67</string>
+        <string>#bf616a</string>
       </dict>
     </dict>
     <dict>
@@ -226,7 +264,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#EC5F67</string>
+        <string>#bf616a</string>
       </dict>
     </dict>
     <dict>
@@ -248,7 +286,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#5FB3B3</string>
+        <string>#96b5b4</string>
       </dict>
     </dict>
     <dict>
@@ -259,7 +297,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#5FB3B3</string>
+        <string>#96b5b4</string>
       </dict>
     </dict>
     <dict>
@@ -271,6 +309,8 @@
       <dict>
         <key>fontStyle</key>
         <string>underline</string>
+        <key>foreground</key>
+        <string>#d08770</string>
       </dict>
     </dict>
     <dict>
@@ -305,7 +345,7 @@
         <key>fontStyle</key>
         <string>italic</string>
         <key>foreground</key>
-        <string>#6699CC</string>
+        <string>#8fa1b3</string>
       </dict>
     </dict>
     <dict>
@@ -318,7 +358,7 @@
         <key>fontStyle</key>
         <string>italic</string>
         <key>foreground</key>
-        <string>#EC5F67</string>
+        <string>#bf616a</string>
       </dict>
     </dict>
   <dict>
