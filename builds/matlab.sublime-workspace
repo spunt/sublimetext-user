@@ -1,0 +1,668 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"app",
+				"apple-touch-icon-144x144"
+			],
+			[
+				"max-heigh",
+				"max-height: 〔property〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"last_filter": "proje",
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project Manager"
+			],
+			[
+				"seetings",
+				"Edit Preferences: Edit Settings…"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Edit Preferences: Edit Settings…"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sett",
+				"Edit Preferences: Edit Settings…"
+			],
+			[
+				"jek",
+				"Jekyll: Edit _config.yml"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"jekyl",
+				"Jekyll: Edit _config.yml"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"schemr",
+				"Schemr: Set scheme for current syntax"
+			],
+			[
+				"foundation grid",
+				"Snippet: ZURB Foundation Full Grid"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"markdown to",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"table",
+				"Table Editor: Set table syntax 'reStructuredText' for current view"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"PREVIEW",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"snippet href",
+				"Snippet: <a href=\"mailto:\"> "
+			],
+			[
+				"snippet img",
+				"Snippet: img"
+			],
+			[
+				"terminal",
+				"Open in terminal"
+			],
+			[
+				"foundation 5 dro",
+				"Snippet: ZURB Foundation 5 Dropdown Buttons"
+			],
+			[
+				"foundation",
+				"Snippet: ZURB Foundation Third Grid"
+			],
+			[
+				"VIew in ",
+				"View In Browser"
+			],
+			[
+				"preveiw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Snippet: foundatino",
+				"Snippet: ZURB Foundation 5 Topbar"
+			],
+			[
+				"pandoc",
+				"Build With: pandoc-md2word"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"slide",
+				"Markdown Slideshow"
+			],
+			[
+				"citer",
+				"Citer: Search"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"Table",
+				"Table Editor: Enable for current syntax"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"colorsublime",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"theme",
+				"Colorsublime: Browse Themes"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 605.0,
+		"history":
+		[
+			"sudo ln -s \"/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl\" /usr/bin/subl",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bobspunt/Github/research-projects/iowa-loi-behavioral/run_practice.m",
+		"/Users/bobspunt/Github/research-projects/iowa-loi-behavioral/task_defaults.m",
+		"/Users/bobspunt/Github/research-projects/iowa-loi-behavioral/.gitignore",
+		"/Users/bobspunt/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/bobspunt/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/bobspunt/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/bobspunt/Library/Application Support/Sublime Text 3/Packages/ProjectManager/project_manager.sublime-settings",
+		"/Users/bobspunt/Github/research-projects/scan-animal-emotion-attribution/surf1.m",
+		"/Users/bobspunt/Github/research-projects/scan-animal-emotion-attribution/surf2.m",
+		"/Users/bobspunt/Github/website/spunt.github.io/_archive_/noita/_scss/normalize.scss",
+		"/Users/bobspunt/Github/website/spunt.github.io/_config.yml",
+		"/Users/bobspunt/Drive/Sync/sublime-text-projects/WEBSITE.sublime-project",
+		"/Users/bobspunt/Github/website/spunt.github.io/_includes/head.html",
+		"/Users/bobspunt/Github/website/spunt.github.io/_includes/sidebar.html",
+		"/Users/bobspunt/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/bobspunt/.synclist",
+		"/Users/bobspunt/.path",
+		"/Users/bobspunt/.exports",
+		"/Users/bobspunt/.extra",
+		"/Users/bobspunt/.functions",
+		"/Users/bobspunt/.aliases",
+		"/Users/bobspunt/Desktop/Web clip package/Header.txt",
+		"/Users/bobspunt/Github/website/spunt.github.io/public/css/hyde.css",
+		"/Users/bobspunt/Github/website/spunt.github.io/atom.xml",
+		"/Users/bobspunt/Github/website/spunt.github.io/Software.md",
+		"/Users/bobspunt/Github/website/spunt.github.io/404.html",
+		"/Users/bobspunt/Github/website/spunt.github.io/LICENSE",
+		"/Users/bobspunt/Github/website/spunt.github.io/.gitignore",
+		"/Users/bobspunt/Drive/Sync/sublime-text-projects/website.sublime-project",
+		"/Users/bobspunt/Github/website/spunt.github.io/Jekyll-Tips.md",
+		"/Users/bobspunt/Desktop/tips.md",
+		"/Users/bobspunt/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/Users/bobspunt/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/Users/bobspunt/Github/website/hyde/_config.yml",
+		"/Users/bobspunt/Github/website/hyde-2.0.0old/_config.yml",
+		"/Users/bobspunt/Github/website/hyde-2.0.0old/Gemfile",
+		"/Users/bobspunt/Github/website/spunt.github.io/_noita/default.html",
+		"/Users/bobspunt/Github/website/hyde/public/css/hyde.css",
+		"/Users/bobspunt/Github/website/hyde/Gemfile",
+		"/Users/bobspunt/Github/website/hyde/Software.md",
+		"/Users/bobspunt/Github/website/hyde/index.html",
+		"/Users/bobspunt/Github/website/hyde/_includes/head.html",
+		"/Users/bobspunt/Github/website/hyde/_includes/sidebar.html",
+		"/Users/bobspunt/Github/website/hyde/README.md",
+		"/Users/bobspunt/Github/website/hyde/Resources.md",
+		"/Users/bobspunt/Github/website/hyde-2.0.0/Gemfile",
+		"/Users/bobspunt/Github/website/hyde-2.0.0/_config.yml",
+		"/Users/bobspunt/Github/spunt.github.io/about/index.md",
+		"/Users/bobspunt/Drive/Professional/JobSearch/Applications/Faculty/2013/statement_research/RPSpunt_ResearchStatement_UCSB.md",
+		"/Users/bobspunt/Drive/Professional/JobSearch/Applications/Faculty/2013/statement_research/RPSpunt_ResearchStatement_UCSB.docx",
+		"/Users/bobspunt/Desktop/research_statement_text.md",
+		"/Users/bobspunt/Desktop/research_statement_text.docx",
+		"/Users/bobspunt/Github/spunt.github.io/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/reference/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/reference/tagnotate/index.md",
+		"/Users/bobspunt/Drive/namebench_wedgewood_elpaso_DNSservers.md",
+		"/Users/bobspunt/Desktop/uicontrol.md",
+		"/Users/bobspunt/Library/Application Support/Sublime Text 3/Packages/User/Projects/website.sublime-project",
+		"/Users/bobspunt/Library/Application Support/Sublime Text 3/Packages/User/pm.sublime-settings",
+		"/Users/bobspunt/Github/research-projects/whyhowlocalizer/index.html",
+		"/Users/bobspunt/Drive/Matlab/sublimetext_projects/website.sublime-project",
+		"/Users/bobspunt/Github/spunt.github.io/resources/reference/osx/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/reference/keynote/index.md",
+		"/Users/bobspunt/.bash_profile",
+		"/Users/bobspunt/Github/spunt.github.io/.gitignore",
+		"/Users/bobspunt/Github/spunt.github.io/_config.yml",
+		"/Users/bobspunt/Github/spunt.github.io/papers/index.md",
+		"/Users/bobspunt/Desktop/AGCC/level1_commands.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/reference/sublime-text/index.md",
+		"/Users/bobspunt/Drive/Professional/Writing/Non-Empirical/TICS-Stanley_Spunt_Adolphs/perspectives/ralphplan.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/reference/matlab/index.md",
+		"/Users/bobspunt/Github/thirdparty_notinpath/d3-cloud/README.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/reference/slack/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/reference/shell/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/reference/markdown/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/blog/feed.atom",
+		"/Users/bobspunt/Github/spunt.github.io/_noita/default.html",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_includes/footer_scripts.html",
+		"/Users/bobspunt/Github/spunt.github.io/resources/links/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/noita/_scss/foundation/_settings.scss",
+		"/Users/bobspunt/Drive/Sync/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bobspunt/Github/spunt.github.io/_noita/page.html",
+		"/Users/bobspunt/Github/spunt.github.io/404.html",
+		"/Users/bobspunt/Github/spunt.github.io/noita/_scss/foundation/components/_inline-lists.scss",
+		"/Users/bobspunt/Github/spunt.github.io/resources/teaching/task-design-and-power/index.html",
+		"/Users/bobspunt/Github/spunt.github.io/resources/teaching/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/teaching/preprocessing/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/teaching/group-analysis/index.html",
+		"/Users/bobspunt/Github/spunt.github.io/resources/teaching/single-subject-analysis/index.html",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/papers/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/cheatsheets/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/_site/index.html",
+		"/Users/bobspunt/Github/spunt.github.io/cv/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/_site/code/index.html",
+		"/Users/bobspunt/Github/spunt.github.io/code/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/links/index.md",
+		"/Users/bobspunt/Github/spunt.github.io/resources/links.md",
+		"/usr/local/.git/MERGE_MSG",
+		"/Users/bobspunt/Desktop/tmp.md",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/index.md",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_includes/navigation.html",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_config.yml",
+		"/Users/bobspunt/Github/spunt.github.io/Gemfile",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_layouts/default.html",
+		"/Users/bobspunt/Drive/Professional/Presentations/Talks/ISSB2015/slides/notes_from_practice.md",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_sass/_02_settings_typography.scss",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_sass/_04_settings_global.scss",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_sass/_01_settings_colors.scss",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/cv/index.md",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_data/navigation.yml",
+		"/Users/bobspunt/Github/thirdparty_notinpath/jekyll-foundation-5-starter/_config.yml",
+		"/Users/bobspunt/Github/thirdparty_notinpath/jekyll-foundation-5-starter/pages/papers.md",
+		"/Users/bobspunt/Github/thirdparty_notinpath/jekyll-foundation-5-starter/pages/cv.md",
+		"/Users/bobspunt/Github/thirdparty_notinpath/jekyll-foundation-5-starter/pages/about.md",
+		"/Users/bobspunt/Github/thirdparty_notinpath/jekyll-foundation-5-starter/pages/code.md",
+		"/Users/bobspunt/Github/thirdparty_notinpath/jekyll-foundation-5-starter/_includes/nav.html",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/about/index.md",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/code/index.md",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/assets/css/style_rss.css",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_sass/_06_typography.scss",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_sass/foundation-components/_top-bar.scss",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/links/index.md",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_data/socialmedia.yml",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_data/language.yml",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_data/authors.yml",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/assets/fonts/iconfont-preview.html",
+		"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive/_data/network.yml"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"/Users/bobspunt/Github/website/spunt.github.io",
+			"<project>",
+			"/Users/bobspunt/Github/spunt.github.io",
+			"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive",
+			"/Users/bobspunt/Github/spunt.github.io",
+			"/Users/bobspunt/Github/thirdparty_notinpath",
+			"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive",
+			"/Users/bobspunt/Github/thirdparty_notinpath",
+			"<project>",
+			"/Users/bobspunt/Github/thirdparty_notinpath/feeling-responsive",
+			"<project>",
+			"/Users/bobspunt/Github",
+			"<project>",
+			"/Users/bobspunt/Github/spunt.github.io/public"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"seamonkey",
+			"Parts",
+			"defaults.practice",
+			"defaults.pre",
+			"defaults.",
+			"prestartdur",
+			"tmp2",
+			"hide",
+			"focus",
+			"constrast",
+			"constrasts",
+			"cluster",
+			"family",
+			"fwe",
+			"correct",
+			"normalise",
+			"segment",
+			"DARTEL",
+			"dartel",
+			"estimate",
+			"spm_dcm",
+			"fmri",
+			"spm_list",
+			"spm_results.m",
+			"spm_results",
+			"spm_results_ui",
+			"------ r",
+			"release",
+			" ",
+			"|  |  | ",
+			"YesNo",
+			"span",
+			"{%",
+			"linkedin",
+			"{{ site",
+			"site.",
+			"sidebar",
+			"software",
+			"_layouts",
+			"},\t\t{",
+			"icon_",
+			"favicon",
+			"url:",
+			"bobspunt.com/",
+			"[",
+			"[YAML Front Matter][2]",
+			"\n`",
+			"> -",
+			"|--",
+			"|-",
+			"`paginator.",
+			"- [",
+			"sidebar",
+			"gem \"",
+			"[2]",
+			"subl",
+			"UA-56476723-1\nUA-56476723-1\nUA-56476723-1",
+			"UA-",
+			"+",
+			"Option",
+			"Control",
+			"Shift",
+			"Command",
+			" - MATLAB",
+			"</kbd>",
+			"<kbd>",
+			" + ",
+			"<kbd>ctrl</kbd>",
+			"<kbd>shift</kbd>",
+			"<kbd>cmd</kbd>",
+			"<kbd>shift</kbd>",
+			"google_analytics_tracking_id",
+			"Google",
+			"size",
+			"inline",
+			"resources/papers",
+			"footer-link",
+			"social-icon",
+			"social icons",
+			"Created with",
+			"Created with PHLOW with JEKYLL using FEELING RESPONSIVE",
+			"Created with ♥ by PHLOW with JEKYLL using FEELING RESPONSIVE",
+			"sans",
+			"orange",
+			"name",
+			"color",
+			"top",
+			"topbar",
+			"color",
+			"bar",
+			"top-bar",
+			"<nav class=\"top-bar\"",
+			"navigation",
+			"mast",
+			"53,77,91",
+			"#354D5B",
+			"background-color",
+			"header.background-color",
+			"Head",
+			"icon-github",
+			"logo",
+			"ad-image-large-rectangle",
+			"rb_sysopen",
+			"      # street: 123 Main St.\n      # city: Dallas\n      # state: TX\n      # zip: 75001",
+			"lang",
+			"noita.lang",
+			"site.noita.lang",
+			"$defaults",
+			"$defaults = ",
+			"Panels",
+			"/public/icon_title.png",
+			"/public/spuntreach.jpg",
+			"/public/icon_200x200.png",
+			"public/icon_200x200.png",
+			"icon_200x200.png",
+			"icon.png",
+			"h1",
+			"font-size",
+			"font",
+			"top",
+			"sizes",
+			"topbar",
+			"sizes",
+			"size",
+			"sizes",
+			"size",
+			"sizes",
+			"table"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"⌥",
+			"⌃",
+			"⇧",
+			"⌘",
+			"",
+			"⌃",
+			"⇧",
+			"⌘",
+			"papers/pdf",
+			"/public/img/icon_title.png",
+			"/public/img/icon_200x200.png",
+			"public/img/icon_200x200.png",
+			"spunt.github.io",
+			"www.bobspunt.com",
+			"www.bobspunt.com/resources/papers",
+			"spunt",
+			"</kbd>",
+			"<kbd>",
+			"<kbd>ctrl</kbd>",
+			"<kbd>opt</kbd>",
+			"<kbd>shift</kbd>",
+			"<kbd>cmd</kbd>",
+			"- ",
+			"]",
+			"[",
+			"\"",
+			"="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Builds/pandoc-word2md.sublime-build",
+	"project": "matlab.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"bobspunt.com/resources/reference/index.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

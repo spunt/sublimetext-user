@@ -9,6 +9,7 @@
 		"Packages/Color Scheme - Default/Dawn.tmTheme",
 		"Packages/Materialize/schemes/Material Primer Light.tmTheme",
 		"Packages/Materialize/schemes/Material Spacegray Eighties.tmTheme",
-		"Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme"
+		"Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+		"Packages/Theme - Lanzhou/base16-ocean.dark.tmTheme"
 	]
 }
