@@ -8,5 +8,6 @@
     { "keys": ["super+alt+w"], "command": "close_tabs"}, // Close all other tabs
     { "keys": ["super+shift+c"], "command": "copy_path_to_clipboard"}, // Copy file name
     { "keys": ["ctrl+shift+r"], "command": "reindent" , "args": { "single_line": false } }, // Reindent
-
+    {"keys":  ["ctrl+alt+t"], "command": "open_terminal"},
+    // {"keys":  ["ctrl+alt+t"], "command": "open_terminal", "args": {"parameters": ["-T", "Working in directory %CWD%"],
 ]

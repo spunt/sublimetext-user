@@ -1,0 +1,5 @@
+{
+  "terminal": "iTerm2-v3.sh",
+   // "terminal": "iTerm.sh",
+  "parameters": ["--open-in-tab"],
+}

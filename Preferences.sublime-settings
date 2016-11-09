@@ -10,7 +10,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "blink",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"contrasted_quick_panel": true,
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
@@ -33,7 +33,7 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 23,
+	"font_size": 21,
 	"gutter": false,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
