@@ -1,25 +1,22 @@
 {
 	"extensions":
 	[
-		".duti",
+		".aliases",
+		".bash_aliases",
+		".bash_history",
+		".bash_profile",
 		".bashrc",
+		".cfg",
+		".dircolors",
+		".dircolors_original",
+		".duti",
+		".exports",
 		".extra",
 		".functions",
-		".dircolors_original",
-		".bash_profile",
-		".zshrc",
-		"zsh",
-		".osx",
-		"sh",
-		".dircolors",
-		".cfg",
 		".macos",
-		".aliases",
-		".bash_history",
-		"bash",
-		".bash_aliases",
+		".osx",
 		".path",
-		".exports",
-		".synclist"
+		".synclist",
+		".zshrc"
 	]
 }
