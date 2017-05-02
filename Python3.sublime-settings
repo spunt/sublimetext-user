@@ -1,0 +1,14 @@
+{
+	"cmd":
+	[
+		"python3",
+		"$file"
+	],
+	"color_scheme": "Packages/Materialize/schemes/Material Stereokai.tmTheme",
+	"extensions":
+	[
+		"py"
+	],
+	"path": "/usr/local/bin",
+	"selector": "source.python3"
+}
